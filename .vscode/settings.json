@@ -1,0 +1,7 @@
+{
+    "prettier.requireConfig": true,
+    "prettier.trailingComma": "all",
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": true,
+    "javascript.suggest.includeAutomaticOptionalChainCompletions": false
+}
